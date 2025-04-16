@@ -2,7 +2,7 @@ import React from "react";
 import vector from "./../assets/images/Vector.png";
 const Navbar = () => {
     return (
-        <nav className="flex items-center justify-between bg-white px-12 py-8">
+        <nav className="flex items-center justify-between bg-white px-12 h-[100px]">
             <div className="relative">
                 <h2 className="font-bold text-2xl">ATS RESUME</h2>
                 <img

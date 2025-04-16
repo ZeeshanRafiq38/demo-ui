@@ -11,7 +11,7 @@ const Hero = () => {
                     Home &gt; Why Choose Us
                 </button>
             </div>
-            <div className="flex items-center w-full py-20 px-16">
+            <div className="flex items-center py-20 mx-12">
                 <div className="flex-1 space-y-6">
                     <p className="text-[38px] text-[#032433] font-semibold">
                         Why a Manually Crafted Resume <br />
